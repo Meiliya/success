@@ -1,0 +1,83 @@
+body {
+  font-family: sans-serif;
+  background-color: #DEDEDE;
+  color: #333;
+  padding: 20px 0 28px 0;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.title {
+  text-align: center;
+  font-weight: normal;
+  font-size: 2.6rem;
+}
+
+.subtitle {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+.memo {
+  max-width: 650px;
+  padding: 20px;
+  margin: 30px auto;
+  overflow: hidden;
+  background-color: #FFF;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .1);
+}
+
+.memo h4 {
+  margin: 0 0 6px 0;
+}
+
+.type-photo {
+  float: left;
+  width: 10%;
+  margin-right: 15px;
+  margin-bottom: 50px;
+}
+
+.from {
+  font-size: 1.5rem;
+  margin: 30px
+}
+
+.species {
+  font-size: .9rem;
+  color: #888;
+  vertical-align: middle;
+}
+
+.msg {
+  font-size: 1rem;
+  margin: 50px
+}
+
+.foods-list {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 17px;
+  font-size: .85rem;
+  line-height: 1.5;
+}
+
+.footer {
+  font-size: .7rem;
+  color: #888;
+  text-align: center;
+  margin: 0;
+}
+
+.time {
+  font-size: .9rem;
+  color: #888;
+  font-style: italic;
+  text-align: right;
+}
